@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Bonefire of Dark Souls](http://i.imgur.com/0DSRM4b.png)
